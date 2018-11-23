@@ -1,3 +1,3 @@
 ***Bootstrap Portfolio***
 
-https://saumilbapat.github.io/Responsive-Portfolio/
+https://saumilbapat.github.io/Bootstrap-Portfolio/
